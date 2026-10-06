@@ -1,6 +1,8 @@
-# India FOSS Handbook
+> THIS HANDBOOK IS NO LONGER IN USE. THE LATEST VERSION IS ON docs.fossunited.org/indiafoss
 
-Welcome to the India FOSS Handbook! This handbook aims to provide comprehensive resources and guidance for IndiaFOSS organisers and volunteers
+# IndiaFOSS Handbook
+
+Welcome to the IndiaFOSS Handbook! This handbook aims to provide comprehensive resources and guidance for IndiaFOSS organisers and volunteers
 
 ## Getting Started
 
