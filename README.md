@@ -1,4 +1,4 @@
-> THIS HANDBOOK IS NO LONGER IN USE. THE LATEST VERSION IS ON docs.fossunited.org/indiafoss
+> THIS HANDBOOK IS NO LONGER IN USE. THE LATEST VERSION IS ON docs.fossunited.org/IndiaFOSS/indiafoss
 
 # IndiaFOSS Handbook
 
